@@ -1,1 +1,1 @@
-# Curso de Git na UESPI
+## Mini curso de Git na UESPI
